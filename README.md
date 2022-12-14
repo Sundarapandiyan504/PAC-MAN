@@ -4,5 +4,5 @@ PacMan Movement Project The project create a one pacman and its detect the scree
 Step to Run the Project 
 step 1 : Once you run the project,the PacMan will appears and move in the direction and reverse if its find the edge.
 
-Future improvement The Project is enhanced by adding more styles and animation tho the pacemen.
-A
+
+
